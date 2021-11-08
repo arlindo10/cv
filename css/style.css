@@ -1,0 +1,140 @@
+
+body{
+    color:#40514E;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color:#00bbf0;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+   
+    
+}
+
+h2{
+    color:#00bbf0;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    
+}
+
+h3{
+    color: #005792;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 40px;
+    right: 130px;
+    bottom: 300px;
+}
+
+.botton-cloud{
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+
+.Personal-photo{
+height: 150px;
+}
+.photo_habilidade_1{
+    
+    height: 100px;
+    margin: 30px auto 30px auto;
+    float:left;
+    margin-right: 30px;
+}
+
+.photo_habilidade_2{
+    
+    height: 150px;
+    margin: 30px auto 30px auto;
+    float:right;
+    margin-left: 30px;
+}
+
+
+
+.desenvolvedor_web{
+    margin:0px;
+    color:#00bbf0;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile{
+    margin-top: 50px;
+}
+
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-color: #A9A9A9;
+    border-width: 7px;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.minhas_habilidades{
+      margin-top: 50px;
+}
+
+.contact-me{
+    margin-top: 50px;
+}
+
+.bottom-container {
+      background-color: #66BFBF;
+      padding: 50px 0 20px;
+}
+  
+.contact-message{
+      width: 40%;
+      margin: 40px auto 60px;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0 ;
+}
+
+
+a {
+    color:#023a49;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:#EAF6F6;
+}
