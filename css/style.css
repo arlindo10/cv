@@ -89,6 +89,11 @@ height: 150px;
     line-height: 2;
 }
 
+.intro{
+    width: 30%;
+    margin:auto;
+}
+
 .profile{
     margin-top: 50px;
 }
